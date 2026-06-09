@@ -97,25 +97,25 @@ Poniżej przedstawiono prototyp aplikacji wykonany w narzędziu Figma, prezentuj
 
 **Ekran Profil**
 
-<img src="assets/screenshots/profil1.jpg" width="300"/>
+<img src="assets/screenshots/profil2.jpg" width="300"/>
 
 ---
 
 **Ekran Profil — widok z przyciskami**
 
-<img src="assets/screenshots/profil2.jpg" width="300"/>
+<img src="assets/screenshots/projekty.jpg" width="300"/>
 
 ---
 
 **Ekran Projekty**
 
-<img src="assets/screenshots/projekty.jpg" width="300"/>
+<img src="assets/screenshots/kontakt.jpg" width="300"/>
 
 ---
 
 **Ekran Kontakt**
 
-<img src="assets/screenshots/kontakt.jpg" width="300"/>
+<img src="assets/screenshots/profil1.jpg" width="300"/>
 
 ---
 
